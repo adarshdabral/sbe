@@ -7,12 +7,18 @@ import './globals.css'
 const _inter = Inter({ subsets: ["latin"] });
 const _merriweather = Merriweather({ subsets: ["latin"], variable: '--font-serif', weight: ['300', '400', '700', '900'] });
 
-export const metadata: Metadata = {
-  title: 'Balaji Enterprises - Premium Construction Materials',
-  description: 'Quality fly ash bricks and interlock tiles for construction. Bulk orders, premium materials, fast nationwide delivery to India.',
-  generator: 'v0.app',
-
-}
+export const metadata = {
+  title: "Shri Balaji Enterprises | Fly Ash Bricks & Construction Materials",
+  description:
+    "Manufacturer and supplier of premium fly ash bricks, interlock tiles, cement products in India.",
+  keywords: [
+    "fly ash bricks",
+    "interlock tiles",
+    "construction materials",
+    "cement products India",
+    "Shri Balaji Enterprises",
+  ],
+};
 
 export default function RootLayout({
   children,
