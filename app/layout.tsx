@@ -19,7 +19,8 @@ export const metadata = {
     "Shri Balaji Enterprises",
     "Best bricks in Noida",
     "Best fly ash bricks in Noida",
-    "best interlock tiles in Noida"
+    "best interlock tiles in Noida",
+    "best cement suppliers in Noida",
   ],
 };
 
