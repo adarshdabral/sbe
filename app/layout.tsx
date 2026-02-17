@@ -17,6 +17,9 @@ export const metadata = {
     "construction materials",
     "cement products India",
     "Shri Balaji Enterprises",
+    "Best bricks in Noida",
+    "Best fly ash bricks in Noida",
+    "best interlock tiles in Noida"
   ],
 };
 
